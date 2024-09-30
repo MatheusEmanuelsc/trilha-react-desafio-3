@@ -110,6 +110,10 @@ const Cadastro = () => {
             </form>
             <Column>
               <Text>
+                Ao clicar em "criar minha conta grátis", declaro que aceito as
+                Políticas de Privacidade e os Termos de Uso da DIO.
+              </Text>
+              <Text>
                 Já tenho Conta <LoginText>Fazer login</LoginText>
               </Text>
             </Column>
